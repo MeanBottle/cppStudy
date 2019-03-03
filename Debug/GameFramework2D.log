@@ -1,0 +1,110 @@
+﻿  stdafx.cpp
+  bullet.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(126): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(158): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(173): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(232): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(241): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\bullet.cpp(255): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camera.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\camera.cpp(18): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\camera.cpp(37): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+  enemyManager.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\enemymanager.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\enemymanager.cpp(52): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\enemymanager.cpp(80): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\enemymanager.cpp(99): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  gameNode.cpp
+  image.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(702): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(703): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(740): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\image.cpp(741): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  mainGame.cpp
+  minion.cpp
+  pixelCollisionScene.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(24): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(60): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(61): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(62): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(63): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(90): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(104): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\pixelcollisionscene.cpp(117): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(123): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(124): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(125): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(111): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 'itoa' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(112): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 'itoa' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(113): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 'itoa' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(136): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(155): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\player.cpp(157): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  progressBar.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(26): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(22): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\progressbar.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  randomFunction.cpp
+  saveData.cpp
+  sceneManager.cpp
+  sceneTest.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\scenetest.cpp(102): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\scenetest.cpp(105): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  txtData.cpp
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(37): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(41): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(70): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 'strtok' 선언을 참조하십시오.
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(73): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 'strtok' 선언을 참조하십시오.
+  util.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+c:\users\vddbb\desktop\study\github\cppstudy\txtdata.cpp(46): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  GameFramework2D.vcxproj -> C:\Users\vddbb\Desktop\study\github\cppStudy\Debug\WindowAPI.exe
